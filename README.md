@@ -1,9 +1,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Game strategies.\
-💻 &nbsp; Ur choice but write in this.\
-⭐ &nbsp; Ur choice but write in this.\
-💬 &nbsp; Ur choice but write in this.
+💡 &nbsp; Game strategies.
 
 
 ### 🛠 &nbsp;Skills
