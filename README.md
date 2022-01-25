@@ -1,16 +1,15 @@
-### Hi there
+### 👨🏻‍💻 &nbsp;About Me
 
-<!--
-**NesteeUwU/NesteeUwU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 &nbsp; Game strategies.\
+💻 &nbsp; Ur choice but write in this.\
+⭐ &nbsp; Ur choice but write in this.\
+💬 &nbsp; Ur choice but write in this.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 &nbsp;Skills
+Osu! standard\
+Minecraft- bedwars, farming, building, server moderation
+### 📫 &nbsp; How to reach me:
+Discord: Nestee#1303\
+Mail: nestee.uwu@gmail.com\
+Osu profile: https://osu.ppy.sh/users/24819896
