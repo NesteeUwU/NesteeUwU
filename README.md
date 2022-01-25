@@ -1,3 +1,4 @@
+![BannerGIF](https://static.wikia.nocookie.net/986b4f37-b2c4-4c26-88c7-155a39e0d4e8)
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; Game strategies.
