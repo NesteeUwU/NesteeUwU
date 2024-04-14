@@ -5,7 +5,7 @@
 
 
 ### 🛠 &nbsp;Skills
-Basics in Python, Javascript and C#
+Basics in Python, Javascript and C#\
 Osu! standard\
 Minecraft- bedwars, farming, building
 ### 📫 &nbsp; How to reach me:
