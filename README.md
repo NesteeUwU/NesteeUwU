@@ -5,10 +5,9 @@
 
 
 ### 🛠 &nbsp;Skills
-Basics in Python, Javascript and C#\
-Osu! standard\
-Minecraft- bedwars, farming, building
+Basics in C#, Blender and Unity\
+Beginner in Cyber Security
+
 ### 📫 &nbsp; How to reach me:
 Discord: nestee.uwu\
-Mail: nestee.uwu@gmail.com\
-Osu profile: https://osu.ppy.sh/users/24819896
+Mail: nestee.uwu@gmail.com
