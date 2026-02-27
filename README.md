@@ -10,5 +10,5 @@ Beginner in Cyber Security
 
 ### 📫 &nbsp; How to reach me:
 Discord: nestee.uwu\
-Mail: nestee.uwu@gmail.com
+Mail: nestee.uwu@gmail.com\
 (Disclaimer: the girl on my pfp is Sophia from Katseye)
