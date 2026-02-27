@@ -11,4 +11,4 @@ Beginner in Cyber Security
 ### 📫 &nbsp; How to reach me:
 Discord: nestee.uwu\
 Mail: nestee.uwu@gmail.com\
-(Disclaimer: the girl on my pfp is Sophia from Katseye)
+(Disclaimer: the baddie on my pfp is Go Younjun)
