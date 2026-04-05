@@ -5,7 +5,7 @@
 
 
 ### 🛠 &nbsp;Skills
-Basics in C#, HTML and CSS
+Basics in C#, HTML and CSS\
 Beginner in Cyber Security
 
 ### 📫 &nbsp; How to reach me:
